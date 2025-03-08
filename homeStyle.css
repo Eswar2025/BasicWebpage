@@ -15,8 +15,8 @@ h1 {
 }
 
 img {
-  width: 45%;
-  height: 50%;
+  width: 150px;
+  height: 150px;
 }
 .profile-pic:hover {
   cursor: circle;
